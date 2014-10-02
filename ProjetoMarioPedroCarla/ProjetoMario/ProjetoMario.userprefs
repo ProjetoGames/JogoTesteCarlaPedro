@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Level1\MovimentoDoMario.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Level1\MovimentoDoMario.cs" Line="38" Column="2" />
+      <File FileName="..\..\ProjetoTutorialLimonada\ProjetoImitandoLimonada\Assets\Scripts\controleDoObjeto.cs" Line="41" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
